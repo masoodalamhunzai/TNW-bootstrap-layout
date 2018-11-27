@@ -1,0 +1,25 @@
+.custom-heading a{
+    color: #f42;
+    text-decoration: none;
+}
+.custom-heading a:hover{
+    color: #112e3e;
+    transition: 1s;
+}
+.custom-hover a{
+    color: #000;
+    text-decoration: none;
+}
+.custom-hover a:hover{
+    color: #f42;
+    transition: 0.1s;
+    text-decoration: underline;
+    text-decoration-color:#ff44227a;
+}
+.repoter-hover a{
+    text-decoration: none;
+    color: #aaa;
+}
+.repoter-hover a:hover{
+    color: #7d7373;
+}
